@@ -10,3 +10,11 @@ It is similar to the chatbot but it takes voice as input and also gives voice as
 1. Converting the speech( user voice ) into text
 2. Feed the text to chatbot which will give a reply to that text
 3. Converting the reply into speech( chatbot voice )
+
+### Packages Used
+1. speech_recognition
+2. chatterbot
+3. pyttsx3
+
+### Programming Language Used
+Python
