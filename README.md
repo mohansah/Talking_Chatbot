@@ -15,6 +15,20 @@ It is similar to the chatbot but it takes voice as input and also gives voice as
 1. speech_recognition
 2. chatterbot
 3. pyttsx3
+4. PyAudio
+
+For Installing the packages, use the commands mentioned below
+
+1. pip install SpeechRecognition
+2. pip install ChatterBot
+3. pip install pyttsx3
+4. pip install PyAudio
+
+ ### Platform Used
+ Windows 10
+
+### Software Used
+Jupyter Notebook
 
 ### Programming Language Used
 Python
